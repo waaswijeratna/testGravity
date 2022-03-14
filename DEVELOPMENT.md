@@ -6,3 +6,4 @@ Starting development journal.
 - **[2022-01-23]**: feat: add file system path traversal utility
 - **[2022-02-12]**: feat: add regex parser for configuration strings
 - **[2022-02-27]**: refactor: modularize common string helper utilities
+- **[2022-03-14]**: feat: add cli arguments parser script
