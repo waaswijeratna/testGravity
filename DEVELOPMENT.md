@@ -9,3 +9,4 @@ Starting development journal.
 - **[2022-03-14]**: feat: add cli arguments parser script
 - **[2022-04-03]**: feat: experiment with json schema validation
 - **[2022-04-25]**: perf: optimize quicksort array benchmark algorithm
+- **[2022-05-11]**: feat: create lightweight http fetch wrapper
