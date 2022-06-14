@@ -11,3 +11,4 @@ Starting development journal.
 - **[2022-04-25]**: perf: optimize quicksort array benchmark algorithm
 - **[2022-05-11]**: feat: create lightweight http fetch wrapper
 - **[2022-05-29]**: chore: setup prettier and basic eslint rules
+- **[2022-06-14]**: feat: add streaming csv to json transformer
