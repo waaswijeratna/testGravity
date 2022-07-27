@@ -14,3 +14,4 @@ Starting development journal.
 - **[2022-06-14]**: feat: add streaming csv to json transformer
 - **[2022-06-28]**: test: add basic node test assertions for utils
 - **[2022-07-12]**: refactor: standardize error handling with custom exceptions
+- **[2022-07-27]**: feat: add simple env configuration loader
