@@ -18,3 +18,4 @@ Starting development journal.
 - **[2022-08-03]**: feat(aggregator): begin currency and rate aggregator script
 - **[2022-08-07]**: feat(aggregator): implement memory cache with ttl eviction
 - **[2022-08-11]**: feat(aggregator): add retry backoff strategy for external apis
+- **[2022-08-15]**: refactor: migrate rate aggregator to typescript types
