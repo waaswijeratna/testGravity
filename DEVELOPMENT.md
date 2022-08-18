@@ -19,3 +19,4 @@ Starting development journal.
 - **[2022-08-07]**: feat(aggregator): implement memory cache with ttl eviction
 - **[2022-08-11]**: feat(aggregator): add retry backoff strategy for external apis
 - **[2022-08-15]**: refactor: migrate rate aggregator to typescript types
+- **[2022-08-18]**: feat(aggregator): add terminal tabular output renderer
