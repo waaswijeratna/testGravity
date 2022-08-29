@@ -22,3 +22,4 @@ Starting development journal.
 - **[2022-08-18]**: feat(aggregator): add terminal tabular output renderer
 - **[2022-08-22]**: fix: handle floating point precision in rate conversions
 - **[2022-08-25]**: docs: document aggregator cli options in readme
+- **[2022-08-29]**: perf: optimize concurrent promise resolution queue
