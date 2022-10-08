@@ -25,3 +25,4 @@ Starting development journal.
 - **[2022-08-29]**: perf: optimize concurrent promise resolution queue
 - **[2022-08-31]**: chore: update node dependencies and typescript targets
 - **[2022-09-16]**: feat: experiment with websocket client pub/sub
+- **[2022-10-08]**: feat: add event emitter decoupling pattern
