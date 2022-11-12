@@ -27,3 +27,4 @@ Starting development journal.
 - **[2022-09-16]**: feat: experiment with websocket client pub/sub
 - **[2022-10-08]**: feat: add event emitter decoupling pattern
 - **[2022-10-28]**: refactor: clean up async iterator handlers
+- **[2022-11-12]**: feat: add markdown table formatter utility
