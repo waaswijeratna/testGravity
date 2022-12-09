@@ -29,3 +29,4 @@ Starting development journal.
 - **[2022-10-28]**: refactor: clean up async iterator handlers
 - **[2022-11-12]**: feat: add markdown table formatter utility
 - **[2022-11-27]**: feat: simple stopwatch and latency benchmarking utility
+- **[2022-12-09]**: chore: repository housekeeping and directory cleanup
