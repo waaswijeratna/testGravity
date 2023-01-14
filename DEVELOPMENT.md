@@ -31,3 +31,4 @@ Starting development journal.
 - **[2022-11-27]**: feat: simple stopwatch and latency benchmarking utility
 - **[2022-12-09]**: chore: repository housekeeping and directory cleanup
 - **[2022-12-23]**: docs: summarize 2022 utility experiments
+- **[2023-01-14]**: feat(ui): experiment with html5 canvas data visualization
